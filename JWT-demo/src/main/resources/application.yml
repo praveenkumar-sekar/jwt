@@ -1,0 +1,8 @@
+server:
+  port:
+
+
+
+
+jwt:
+  secret: secretkey123
